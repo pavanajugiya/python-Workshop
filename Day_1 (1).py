@@ -20,7 +20,6 @@ if n  % 2 == 0:
 else:
     print("Odd")
 
-print(eval(input("perform operation : "))) #calculate directly
 
 # Menu Driven Calculator
 num1 = int(input("Enter the first number : "))
